@@ -65,6 +65,24 @@ TextureImporter:
   - first:
       213: 8828945532240292256
     second: running_caveman 20
+  - first:
+      213: 62871094431515778
+    second: running_caveman 21
+  - first:
+      213: 3148753654686791537
+    second: running_caveman 22
+  - first:
+      213: -8888191622516732997
+    second: running_caveman 23
+  - first:
+      213: 4815277097295252886
+    second: running_caveman 24
+  - first:
+      213: -584454484715808288
+    second: running_caveman 25
+  - first:
+      213: -1496807498669798863
+    second: running_caveman 26
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -142,7 +160,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 96
+        y: 128
         width: 32
         height: 32
       alignment: 7
@@ -163,7 +181,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 96
+        y: 128
         width: 32
         height: 32
       alignment: 7
@@ -184,7 +202,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 96
+        y: 128
         width: 32
         height: 32
       alignment: 7
@@ -205,7 +223,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 96
+        y: 128
         width: 32
         height: 32
       alignment: 7
@@ -226,7 +244,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 96
+        y: 128
         width: 32
         height: 32
       alignment: 7
@@ -247,7 +265,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 96
         width: 32
         height: 32
       alignment: 7
@@ -268,7 +286,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 64
+        y: 96
         width: 32
         height: 32
       alignment: 7
@@ -289,7 +307,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 64
+        y: 96
         width: 32
         height: 32
       alignment: 7
@@ -310,7 +328,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 64
+        y: 96
         width: 32
         height: 32
       alignment: 7
@@ -331,7 +349,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 64
+        y: 96
         width: 32
         height: 32
       alignment: 7
@@ -352,7 +370,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
+        y: 64
         width: 32
         height: 32
       alignment: 7
@@ -372,7 +390,7 @@ TextureImporter:
       name: running_caveman 11
       rect:
         serializedVersion: 2
-        x: 128
+        x: 32
         y: 64
         width: 32
         height: 32
@@ -393,8 +411,8 @@ TextureImporter:
       name: running_caveman 12
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
+        x: 64
+        y: 64
         width: 32
         height: 32
       alignment: 7
@@ -414,8 +432,8 @@ TextureImporter:
       name: running_caveman 13
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
+        x: 96
+        y: 64
         width: 32
         height: 32
       alignment: 7
@@ -435,8 +453,8 @@ TextureImporter:
       name: running_caveman 14
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
+        x: 128
+        y: 64
         width: 32
         height: 32
       alignment: 7
@@ -456,7 +474,7 @@ TextureImporter:
       name: running_caveman 15
       rect:
         serializedVersion: 2
-        x: 96
+        x: 0
         y: 32
         width: 32
         height: 32
@@ -477,7 +495,7 @@ TextureImporter:
       name: running_caveman 16
       rect:
         serializedVersion: 2
-        x: 128
+        x: 32
         y: 32
         width: 32
         height: 32
@@ -498,7 +516,7 @@ TextureImporter:
       name: running_caveman 17
       rect:
         serializedVersion: 2
-        x: 96
+        x: 0
         y: 32
         width: 32
         height: 32
@@ -519,8 +537,8 @@ TextureImporter:
       name: running_caveman 18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 64
+        y: 32
         width: 32
         height: 32
       alignment: 7
@@ -540,8 +558,8 @@ TextureImporter:
       name: running_caveman 19
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
+        x: 96
+        y: 32
         width: 32
         height: 32
       alignment: 7
@@ -561,8 +579,8 @@ TextureImporter:
       name: running_caveman 20
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 64
+        y: 32
         width: 32
         height: 32
       alignment: 7
@@ -574,6 +592,132 @@ TextureImporter:
       bones: []
       spriteID: 0a9647e0f27b68a70800000000000000
       internalID: 8828945532240292256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_caveman 21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2840b326dec5fd000800000000000000
+      internalID: 62871094431515778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_caveman 22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177b1d024ce92bb20800000000000000
+      internalID: 3148753654686791537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_caveman 23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb894c9fccc6a480800000000000000
+      internalID: -8888191622516732997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_caveman 24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d8b5fe10d43d240800000000000000
+      internalID: 4815277097295252886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_caveman 25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e951232eb993e7f0800000000000000
+      internalID: -584454484715808288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: running_caveman 26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a45a8a2854a3be0800000000000000
+      internalID: -1496807498669798863
       vertices: []
       indices: 
       edges: []
